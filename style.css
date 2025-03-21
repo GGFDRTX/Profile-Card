@@ -15,7 +15,7 @@ body {
     left: 0;
     width: 100%;
     height: 40%; 
-    background: linear-gradient(135deg, #4eafff, #68d1ff); 
+    background: linear-gradient(135deg, #00ffff, #000cb9);
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -56,6 +56,7 @@ body {
     object-fit: cover;
 }
 
+
 h2 {
     font-size: 26px;
     margin-top: 80px;
@@ -74,6 +75,7 @@ h2 {
     font-weight: bold;
     margin: 10px 0;
 }
+
 
 .stats {
     display: flex;
@@ -101,7 +103,7 @@ h2 {
     position: absolute;
     width: 12px;
     height: 12px;
-    background: #4eafff; 
+    background: #ff4e91;
     border-radius: 50%;
 }
 
